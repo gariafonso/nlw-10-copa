@@ -1,5 +1,3 @@
-# nlw-10-copa
-
 <p align="center">
   <img alt="NLW Copa" src=".github/logo.svg" />
 </p>
@@ -9,35 +7,22 @@
   <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=F7DD43&labelColor=202024" alt="License"></a>
 </p>
 
-## 💻 Projeto
-
-Aplicação para participar de bolões da Copa do Mundo 2022.
 
 ## ✨ Tecnologia
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Expo](https://expo.dev/)
-- [Fastify](https://www.fastify.io/)
-- [Prisma](https://www.prisma.io/)
-- E muitas outras…
+- HTML e CSS
+- javascript
+- Git e Github
 
-## 🚀 Como executar
+## 💻 Projeto
 
-Em todos os projetos, ao acessar a pasta, é preciso baixar os pacotes com o gerenciador de sua preferencia.
-
-Acesse a documentação de cada projeto:
-
-- [Backend](./server/README.md)
-- [Web](./web/README.md)
-- [Mobile](./mobile/README.md)
+O Calendario da copa é um projecto que mostra os jogos da copa de 2022
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout](https://www.figma.com/community/file/1169028343875283461)
+- [Layout](https://www.figma.com/file/sVr8stELOJUrEiFbOzrTu8/Calend%C3%A1rio-de-Jogos-(Community))
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
